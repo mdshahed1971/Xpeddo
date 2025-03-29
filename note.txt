@@ -52,4 +52,17 @@
 
 
 
+
+     
+<div class="grid md:grid-cols-5 grid-cols-3 justify-center">
+  <p class="w-12 text-center text-white text-lg font-normal" style="background: linear-gradient(45deg, #dce35b, #45b649);">All</p>
+  <p class="bg-[#eee] w-32 text-center font-normal text-lg text-black hover:text-white">Branding</p>
+  <p class="bg-[#eee] w-32 text-center font-normal text-lg text-black hover:text-white">Marketing</p>
+  <p class="bg-[#eee] w-32 text-center font-normal text-lg text-black hover:text-white">Web Design</p>
+  <p class="bg-[#eee] w-32 text-center font-normal text-lg text-black hover:text-white">Graphic Design</p>
+</div>
+
+
+
+
    
